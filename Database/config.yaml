@@ -1,0 +1,8 @@
+APP:
+  debug: true
+  log_level: INFO
+DATABASE:
+  host: localhost
+  password: secret
+  port: 5432
+  user: admin
